@@ -1,7 +1,7 @@
 # Simple Weather App
 
-- Created in Vue3 - Typescript
+- Created in Vue3 - Typescript - CSS
 
-## Recommended Setup
+## Project URL
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+- This project can be found here on netlify - [Simple Weather](https://simple-weather-rmd.netlify.app/)
